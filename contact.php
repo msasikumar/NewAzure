@@ -1,8 +1,8 @@
 <?php
 // Email Setting
 //=======================================
-$admin_email = "yourname@email.com";
-$from_name   = "Site Coming Soon";
+$admin_email = "msasikumar@email.com";
+$from_name   = "Sasikumar's Site Coming Soon";
 
 
 
